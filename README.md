@@ -8,7 +8,7 @@
 
 * Projet de création d'une application Web Java avec Spring Boot et Hibernate (techno front à déterminer)...
 * Exercism.io en Java
-* [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/)
+* [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/) voir aussi https://es6.io/ ..
 * Exercism.io en Js
 * Création d'une interface ReactJS pour l'application Web Java
 
