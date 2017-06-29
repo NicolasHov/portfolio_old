@@ -2,7 +2,7 @@
 
 ## Portfolio (à compléter)
 
-* [Projet Lonepod réalisé dans le cadre du Hackacon Paris, les 10&11 juin 2017 au Tank](https://github.com/NicolasHov/lonepod/#svg)
+* [Projet Lonepod réalisé dans le cadre du Hackacon Paris, les 10&11 juin 2017 au Tank](https://NicolasHov.github.io/lonepod/#svg)
 
 ## A venir : programme selon disponibilités 
 
