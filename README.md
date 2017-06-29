@@ -8,7 +8,7 @@
 
 * Freecodecamp.com
 * [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/) voir aussi https://es6.io/ ..
-* Codewar.com 
+* [Codewars](https://www.codewars.com/users/NicolasHov/) 
 * Exercism.io en Js
  
 <!--* (Projet de création d'une application Web Java avec Spring Boot et Hibernate (techno front à déterminer)...) -->
