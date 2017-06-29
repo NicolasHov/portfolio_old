@@ -6,7 +6,7 @@
 
 ### Un programme d'apprentissage du code 
 
-* Freecodecamp
+* Freecodecamp.com
 * [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/) voir aussi https://es6.io/ ..
 * Codewar.com 
 * Exercism.io en Js
