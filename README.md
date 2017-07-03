@@ -15,3 +15,11 @@
 <!--* (Création d'une interface ReactJS pour l'application Web Java -->
 <!--Selon progression :-->
 <!--* Création d'une page web de ressources HTML/CSS en ReactJS-->
+
+
+#### Enoncés d'exercices
+
+###### Java :
+
+* [Java_Challenge_resalogement](https://github.com/simplonco/Java_Challenge_resalogement)
+
