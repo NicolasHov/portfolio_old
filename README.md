@@ -8,10 +8,9 @@
 
 * Freecodecamp.com
 
-  ** [Page utilisant Bootstrap](https://github.com/NicolasHov/Tribute_Page_Gandhi/blob/master/Tribute_Page_Gandhi.html)
+  [Page utilisant Bootstrap](https://NicolasHov.github.io/Tribute_Page_Gandhi.html)
   
 * [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/) voir aussi https://es6.io/ ..
-* [Codewars](https://www.codewars.com/users/NicolasHov/) 
 * Exercism.io en Js
  
 <!--* (Projet de création d'une application Web Java avec Spring Boot et Hibernate (techno front à déterminer)...) -->
