@@ -8,7 +8,7 @@
 
 * Freecodecamp.com
 
-  [Page utilisant Bootstrap](https://NicolasHov.github.io/Tribute_Page_Gandhi.html)
+  [Page utilisant Bootstrap](https://NicolasHov.github.io/Tribute_Page_Gandhi/index.html)
   
 * [30 Projets Javascript proposé par Wes Bos](https://javascript30.com/) voir aussi https://es6.io/ ..
 * Exercism.io en Js
