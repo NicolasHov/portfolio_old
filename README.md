@@ -10,7 +10,7 @@
 
   [Page utilisant Bootstrap](https://NicolasHov.github.io/Tribute_Page_Gandhi/#svg)
   
-### Réalisation dans le cadre du programme [The Hacking Project](thehackingproject.com)
+### Réalisation dans le cadre du programme [The Hacking Project](http://www.thehackingproject.org/)
  
  * [Rétro-engineering Home Page de Google en utilisant Bootstrap&jQuery](https://github.com/NicolasHov/home_page_google)
  
