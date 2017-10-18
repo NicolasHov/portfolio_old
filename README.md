@@ -15,9 +15,9 @@
 
 ## Contenus pédagogiques Java/SQL/Wordpress (créés dans le cadre de la formation Simplon)
 
-### Supports théoriques & Enoncés d'exercices
+### Supports théoriques & Enoncés d'exercices ("forkés" depuis le github Simplon.co)
 
-* [Java_Challenge_resalogement (forké depuis le github Simplon.co)](https://github.com/NicolasHov/Java_Challenge_resalogement)
+* [Java_Challenge_resalogement](https://github.com/NicolasHov/Java_Challenge_resalogement)
   
 * [TP SQL avec l'outil MySQLWorkbench](https://github.com/NicolasHov/SQL-TP-MySQLWorkbench)
 
