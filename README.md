@@ -17,9 +17,9 @@
 
 ### Enoncés d'exercices
 
-* [Java_Challenge_resalogement](https://github.com/simplonco/Java_Challenge_resalogement)
+* [Java_Challenge_resalogement (forké depuis le github Simplon.co)](https://github.com/NicolasHov/Java_Challenge_resalogement)
 
 ### Supports théoriques
 
 * [Notions de bases, fondamentaux de la POO](https://github.com/simplonco/java-initiation)
-* [Capture d'écran]!(Screenshot-2017-10-18 simplonco java-initiation.png) 
+* ![Capture d'écran](Screenshot-2017-10-18 simplonco java-initiation.png) 
