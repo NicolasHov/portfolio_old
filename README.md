@@ -13,14 +13,11 @@
 <!--Selon progression :-->
 <!--* Création d'une page web de ressources HTML/CSS en ReactJS-->
 
-## Contenus pédagogiques Java (créés dans le cadre de la formation Simplon)
+## Contenus pédagogiques Java/SQL/Wordpress (créés dans le cadre de la formation Simplon)
 
 ### Supports théoriques & Enoncés d'exercices
 
 * [Java_Challenge_resalogement (forké depuis le github Simplon.co)](https://github.com/NicolasHov/Java_Challenge_resalogement)
-
-* [Notions de bases, fondamentaux de la POO, capture d'écran du github de Simplon.co :](https://github.com/simplonco/java-initiation)
-  ![Capture d'écran](java-initiation.png) 
   
 * [TP SQL avec l'outil MySQLWorkbench](https://github.com/NicolasHov/SQL-TP-MySQLWorkbench)
 
@@ -33,3 +30,6 @@
 * [Tuto installation et première prise en main du builder Maven pour Java](https://github.com/NicolasHov/Java-tuto-Maven)
 
 * [TP Introduction accéléré à l'intégration avec Wordpress](https://github.com/NicolasHov/wordpress-TP)
+
+* [Notions de bases, fondamentaux de la POO, capture d'écran du github privé de Simplon.co :](https://github.com/simplonco/java-initiation)
+  ![Capture d'écran](java-initiation.png) 
