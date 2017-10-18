@@ -22,4 +22,4 @@
 ### Supports théoriques
 
 * [Notions de bases, fondamentaux de la POO](https://github.com/simplonco/java-initiation)
-* ![Capture d'écran](Screenshot-2017-10-18 simplonco java-initiation.png) 
+* ![Capture d'écran](java-initiation.png) 
