@@ -6,8 +6,9 @@
 
 * [Bootstrap&jQuery : Rétro-engineering Home Page de Google](https://github.com/NicolasHov/home_page_google)
 
-* [Ruby : Scrapping d'adresses mails et envois automatiques de mails via gmail](https://github.com/NicolasHov/THPsemaine2/tree/master/Scrapping)
+* [Repository : Scrapping avec ruby d'adresses mails et envois automatiques de mails via gmail](https://github.com/NicolasHov/THPsemaine2/tree/master/Scrapping)
  
+ * [Application type blog en ligne, framework Ruby On Rails](https://stormy-taiga-63662.herokuapp.com/moussaillons/1)
 <!--* (Projet de création d'une application Web Java avec Spring Boot et Hibernate (techno front à déterminer)...) -->
 <!--* (Création d'une interface ReactJS pour l'application Web Java -->
 <!--Selon progression :-->
@@ -15,7 +16,7 @@
 
 ## Contenus pédagogiques Java/SQL/Wordpress (créés dans le cadre de la formation Simplon)
 
-### Supports théoriques & Enoncés d'exercices ("forkés" depuis le github Simplon.co)
+### Supports théoriques & Enoncés d'exercices (liens à actualiser)
 
 * [Java_Challenge_resalogement](https://github.com/NicolasHov/Java_Challenge_resalogement)
   
