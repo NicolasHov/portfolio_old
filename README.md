@@ -2,7 +2,7 @@
 
 ## Réalisations
 
-* [Landing-page du projet PassTech](https://www.passtech.io/) réalisé en juin 2018. avec Github-page et Jekyll, la charte graphique respecte les normes du framework Material Design de google.
+* [Landing-page du projet PassTech](https://www.passtech.io/) réalisé en juin 2018. avec Github-page, Webpack et Sass pour le Front, la charte graphique respecte les normes du framework Material Design de google.
 
 * [Refonte du site officiel du bootcamp The Hacking Project](https://www.thehackingproject.org/) réalisé en janvier 2018 avec Ruby On Rails et utilisant pour le front le kit responsive Now UI (basé sur Bootstrap 4).
 
@@ -38,3 +38,7 @@
 
 * [Notions de bases, fondamentaux de la POO, capture d'écran du github privé de Simplon.co :](https://github.com/simplonco/java-initiation)
   ![Capture d'écran](java-initiation.png) 
+
+
+<br><br>
+Le repository de cette page et mon compte Github sont disponibles [en cliquant ici](https://github.com/NicolasHov/NicolasHov.github.io/)
