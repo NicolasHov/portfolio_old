@@ -8,14 +8,14 @@
 
 * [JavaScript : Projet Lonepod](https://NicolasHov.github.io/lonepod/#svg) réalisé dans le cadre du Hackacon Paris, les 10&11 juin 2017 au Tank
 
+## Projets d'auto-formation
+
 * [Bootstrap&jQuery : Rétro-engineering Home Page de Google](https://github.com/NicolasHov/home_page_google)
 
 * [Repository : Scrapping avec ruby d'adresses mails et envois automatiques de mails via gmail](https://github.com/NicolasHov/THPsemaine2/tree/master/Scrapping)
  
  * [Application type blog en ligne, framework Ruby On Rails](https://stormy-taiga-63662.herokuapp.com/moussaillons/1)
-<!--* (Projet de création d'une application Web Java avec Spring Boot et Hibernate (techno front à déterminer)...) -->
-<!--* (Création d'une interface ReactJS pour l'application Web Java -->
-<!--Selon progression :-->
+
 <!--* Création d'une page web de ressources HTML/CSS en ReactJS-->
 
 ## Contenus pédagogiques Java/SQL/Wordpress (créés dans le cadre d'une preqtation pour l'organisme de formation Simplon.co)
