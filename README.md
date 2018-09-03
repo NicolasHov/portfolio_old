@@ -18,7 +18,7 @@
 
 <!--* Création d'une page web de ressources HTML/CSS en ReactJS-->
 
-## Contenus pédagogiques Java/SQL/Wordpress (créés dans le cadre d'une preqtation pour l'organisme de formation Simplon.co)
+## Contenus pédagogiques Java/SQL/Wordpress (créés pour l'organisme de formation Simplon.co)
 
 ### Supports théoriques & Enoncés d'exercices (liens retirés à l'accès public par Simplon)
 
