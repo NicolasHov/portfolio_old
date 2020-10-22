@@ -1,0 +1,23 @@
+
+section {
+    display: flex;
+    align-content: space-between;
+}
+
+#image {
+    /* display: flex; */
+    align-content: center;
+}
+
+#infos {
+    border-color: black;
+    border-width: 2px;
+    background: lightgray;
+    padding: 2rem;
+    text-align: center;
+}
+
+#generate {
+    background: lightpink;
+    align-content: center;
+}
