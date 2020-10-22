@@ -1,0 +1,12 @@
+body {
+    background-color: seashell;
+}
+
+#mapid { 
+    height: 450px; 
+}
+
+#infos {
+    text-decoration: underline;
+    color: black;
+}
