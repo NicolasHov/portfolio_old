@@ -1,4 +1,4 @@
-# Page personnelle de Nicolas Hovart
+# Page personnelle de Nicolas Hovart (OLD)
 
 ## Réalisations
 
@@ -18,7 +18,13 @@
 
 <!--* Création d'une page web de ressources HTML/CSS en ReactJS-->
 
-## Contenus pédagogiques Java/SQL/Wordpress (créés pour l'organisme de formation Simplon.co)
+## Contenus pédagogiques 
+
+#### Javascript & Json
+
+* [Pokemon Generator](https://github.com/NicolasHov/Generator_pokemon/index.html)
+
+#### Java/SQL/Wordpress (créés pour l'organisme de formation Simplon.co)
 
 ### Supports théoriques & Enoncés d'exercices (liens retirés à l'accès public par Simplon)
 
